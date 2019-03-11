@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2019, Danny Hacker, Apache License 2.0, Soli Deo Gloria -->
+<resources>
+    <string name="hello">Hello World, Click Me!</string>
+    <string name="app_name">CPTest.Droid</string>
+</resources>
