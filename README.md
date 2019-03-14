@@ -1,6 +1,6 @@
 # xamarin-cp-short-series-shared-gui3-start
 
-Starting project of the 5th video: 
+Starting project of the 5th video: https://youtu.be/YyWvpWbjokk
 
 Extending the shared GUI with image on the button.
 
